@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mis3085.github.io/docs-aplus88/sitemap.xml
