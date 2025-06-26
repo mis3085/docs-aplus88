@@ -458,11 +458,6 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="hi"
-      href="https://mis3085.github.io/docs-aplus88/hi/products/pvc-mesh-mat/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="ko"
       href="https://mis3085.github.io/docs-aplus88/ko/products/pvc-mesh-mat/"
     />
@@ -475,6 +470,11 @@
       rel="alternate"
       hreflang="ar"
       href="https://mis3085.github.io/docs-aplus88/ar/products/pvc-mesh-mat/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="hi"
+      href="https://mis3085.github.io/docs-aplus88/hi/products/pvc-mesh-mat/"
     />
     <xhtml:link
       rel="alternate"
@@ -603,66 +603,6 @@
     />
   </url>
   <url>
-    <loc>https://mis3085.github.io/docs-aplus88/es/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://mis3085.github.io/docs-aplus88/en/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="de"
-      href="https://mis3085.github.io/docs-aplus88/de/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="fr"
-      href="https://mis3085.github.io/docs-aplus88/fr/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="it"
-      href="https://mis3085.github.io/docs-aplus88/it/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="pt"
-      href="https://mis3085.github.io/docs-aplus88/pt/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://mis3085.github.io/docs-aplus88/ru/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ar"
-      href="https://mis3085.github.io/docs-aplus88/ar/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="hi"
-      href="https://mis3085.github.io/docs-aplus88/hi/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="https://mis3085.github.io/docs-aplus88/ja/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ko"
-      href="https://mis3085.github.io/docs-aplus88/ko/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="https://mis3085.github.io/docs-aplus88/es/"
-    />
-  </url>
-  <url>
     <loc>https://mis3085.github.io/docs-aplus88/es/products/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -720,6 +660,66 @@
       rel="alternate"
       hreflang="es"
       href="https://mis3085.github.io/docs-aplus88/es/products/"
+    />
+  </url>
+  <url>
+    <loc>https://mis3085.github.io/docs-aplus88/es/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://mis3085.github.io/docs-aplus88/en/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de"
+      href="https://mis3085.github.io/docs-aplus88/de/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://mis3085.github.io/docs-aplus88/fr/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="it"
+      href="https://mis3085.github.io/docs-aplus88/it/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="pt"
+      href="https://mis3085.github.io/docs-aplus88/pt/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="https://mis3085.github.io/docs-aplus88/ru/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ar"
+      href="https://mis3085.github.io/docs-aplus88/ar/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="hi"
+      href="https://mis3085.github.io/docs-aplus88/hi/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ja"
+      href="https://mis3085.github.io/docs-aplus88/ja/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ko"
+      href="https://mis3085.github.io/docs-aplus88/ko/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="https://mis3085.github.io/docs-aplus88/es/"
     />
   </url>
 </urlset>

@@ -458,11 +458,6 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="hi"
-      href="https://mis3085.github.io/docs-aplus88/hi/products/pvc-mesh-mat/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="ko"
       href="https://mis3085.github.io/docs-aplus88/ko/products/pvc-mesh-mat/"
     />
@@ -475,6 +470,11 @@
       rel="alternate"
       hreflang="ar"
       href="https://mis3085.github.io/docs-aplus88/ar/products/pvc-mesh-mat/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="hi"
+      href="https://mis3085.github.io/docs-aplus88/hi/products/pvc-mesh-mat/"
     />
     <xhtml:link
       rel="alternate"
